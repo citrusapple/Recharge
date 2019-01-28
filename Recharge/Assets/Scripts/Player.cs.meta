@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+fileFormatVersion: 2
+guid: 3e28052b74b3d1649bdb00ea2ca038e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+||||||| merged common ancestors
+=======
+fileFormatVersion: 2
+guid: ecb8439060e8649c78ae821e2288a5cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> dfbefbf34728b60208ed2b1c34c6ba2eb29f7186
